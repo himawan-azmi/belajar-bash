@@ -7,5 +7,5 @@ Belajar bash dari [W3Schools](https://www.w3schools.com/bash/index.php)
 > [!CAUTION]  
 > Jangan lupa
 
-> [!DANGER]
+> [!WARNING]
 > Semangat
